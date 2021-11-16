@@ -1,0 +1,44 @@
+/*----------------color-----------*/
+background: #032055;
+background: #001539;
+color: #ED2F77;
+
+
+
+/*----------------font family-----------*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+
+font-family: 'Open Sans', sans-serif;
+
+
+/*----------------icon-----------*/
+<i class="fas fa-bold"></i>
+<i class="fas fa-wifi"></i>
+
+<i class="fas fa-heartbeat"></i>
+<i class="fas fa-bell"></i>
+<i class="fas fa-street-view"></i>
+
+<i class="fab fa-bluetooth"></i>
+<i class="fas fa-cloud"></i>
+<i class="fas fa-video"></i>
+
+<i class="fas fa-star "></i>
+<i class="fas fa-star-half-alt"></i>
+<i class="far fa-star "></i>
+
+<i class="fas fa-map-marker-alt"></i>
+<i class="fas fa-envelope"></i>
+
+
+
+
+
+
+/*----------------image-----------*/
+<img src="https://img.icons8.com/color/50/000000/facebook-new.png" />
+<img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png" />
+<img src="https://img.icons8.com/color/48/000000/pinterest--v6.png" />
+<img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" />
+<img src="https://img.icons8.com/fluency/48/000000/google-plus-circled.png" />
+<img src="https://img.icons8.com/fluency/48/000000/github.png" />
